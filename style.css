@@ -1,0 +1,261 @@
+
+.site{
+    background-color:  rgb(245, 235, 220); 
+    width: 100%;
+    min-height: 100vh;
+    
+}
+
+
+.head{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-top: 15px;
+}
+
+.bar{
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.bklogo img {
+    cursor: pointer;
+    height: 50px;
+    width: 50px;
+
+}
+
+.balance{
+    cursor: pointer;
+    background-color: rgb(80, 35, 20);
+    border-radius: 9999px;
+    height: 19px;
+    width: 45px;
+    padding: 8px 16px;
+    color: rgb(245, 235, 220);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.location {
+    display: flex;
+    align-items: center;
+}
+
+.loclogo {
+    cursor: pointer;
+    margin-right: 10px; 
+    margin-left: 240px;
+}
+
+.av,
+.loclink {
+    cursor: pointer;
+    margin-right: 10px; 
+}
+
+.loclink {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+nav{
+    border-bottom: 2px solid rgb(69, 59, 59);
+    background-color:  rgb(245, 235, 220);
+    position: fixed;
+    width: 100%;
+}
+
+h2:hover{
+    color: red;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .container div {
+    width: 50%;
+    height: 100px;
+    background-color: white;
+    margin: 16px;
+    padding: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
+.p1{
+    height: 50px !important;
+    margin-top: 150px !important;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.p2{
+    
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/3417565551a3a8ff3e099d9ba52abb0d2c9b0fdc-1333x1333.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+div h2,p {
+    margin-left: 25%;
+}
+
+.p3{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/1daf606128e721b0d1b7f575d77fb1ca7cf4b1bc-2005x1950.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+
+.p4{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/881202097fea416ba49b6daf161c1f5c406ec0ac-1333x1333.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 120px;
+}
+
+
+.p5{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/e2b2e3834675f6dcba26ac841c3bc847dca019e4-1333x1333.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 120px;
+}
+
+
+.p6{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/1cfd73ceab1d5e953e190a21715959c2302e9d62-3341x2782.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 120px;
+}
+
+
+.p7{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/6971f034c3727875e5281759ab16edce8e189173-1333x1333.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 120px;
+}
+
+.p8{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/452ea1020703a58a00791d498e46ccd3cca254a8-1333x1333.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 120px;
+}
+
+
+.p9{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/2d662cd3a71618574847ed8c3453719c6cf76dbd-4290x4346.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 120px;
+}
+
+
+.p10{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/09609532f7bfffd2046fc4f8015c8d0c538a570f-1333x1333.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 120px;
+}
+
+
+.p11{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/911f67b40dc08ba7142f3e4b9fb38732957fee74-1333x1333.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 120px;
+}
+
+
+.p12{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/098895dca1e3e9c31906198a9c5dc9e05a1a7e6d-4290x2860.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 120px;
+}
+
+
+.p13{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/a7f2625343209d3e8be6b1ae7f321caa5d394556-2048x2048.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 120px;
+}
+
+
+.p14{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/f6937a2b324230652b3549ca387e3979e6150f4b-512x512.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 120px;
+}
+
+
+.p15{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/4000e24071f6f122312df9ba88834e6f019d7fd8-2175x1950.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 120px;
+}
+
+
+.p16{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/1236ed853b7b5f5a1ed2db4ed35601dc7fdf2980-2048x2048.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 120px;
+}
+
+
+.p17{
+    background-image: url("https://cdn.sanity.io/images/czqk28jt/prod_bk_us/b9b24e44eddef506658ddc7d83115fd6122aef75-551x475.png?w=187&q=80&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 120px;
+}
+
+
+.container2 {
+    position: relative;
+    min-height: 10vh;
+    border-top: 2px solid rgb(69, 59, 59);
+    
+  }
+  
+  .fixed-nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    
+  }
+  
+  .logo-list {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .logo-list li {
+    padding: 10px;
+  }
+  
+  .logo-list li img {
+    max-width: 30px;
+  }
+  
